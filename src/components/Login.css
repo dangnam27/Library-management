@@ -1,0 +1,19 @@
+.leftShadow {
+  box-shadow: 5px 0px 10px -5px rgba(199, 200, 202, 0.97);
+}
+
+.login {
+  height: 100vh;
+}
+.loginLeft {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.loginRight {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}

@@ -1,0 +1,18 @@
+.icon {
+  font-size: 50px;
+  transition: 0.3s linear;
+}
+.get-info {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.get-info:hover {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.222);
+}
+.bg-info {
+  background-color: #17a2b8 !important;
+  overflow: hidden;
+}
+.icon:hover {
+  transform: scale(1.25);
+}

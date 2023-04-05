@@ -1,0 +1,28 @@
+.pagination-item {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+.pagination-item:hover {
+  background-color: rgba(145, 158, 171, 0.16);
+  color: blue;
+}
+
+.active {
+  background-color: #e66060;
+  color: white;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+
+.toast-popup {
+  position: fixed;
+  right: 0;
+  top: 5%;
+  z-index: 1111;
+}
